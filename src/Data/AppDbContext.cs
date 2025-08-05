@@ -1,7 +1,7 @@
-﻿using libCenter.Models;
+﻿using libCenter.src.Models;
 using Microsoft.EntityFrameworkCore;
 
-namespace libCenter.Data
+namespace libCenter.src.Data
 {
     public class AppDbContext : DbContext
     {

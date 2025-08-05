@@ -1,8 +1,8 @@
-﻿using libCenter.Data;
+﻿using libCenter.src.Data;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 
-namespace libCenter.Controllers
+namespace libCenter.src.Controllers
 {
     [Route("api/[controller]")]
     [ApiController]

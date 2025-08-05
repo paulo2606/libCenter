@@ -1,7 +1,7 @@
 ﻿using System.ComponentModel.DataAnnotations;
 using System.ComponentModel.DataAnnotations.Schema;
 
-namespace libCenter.Models
+namespace libCenter.src.Models
 {
     [Table("book")]
     public class BookModel
