@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36203.30 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "libCenter", "libCenter.csproj", "{C49DAFC4-B758-405B-BCBC-6198EF888067}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C49DAFC4-B758-405B-BCBC-6198EF888067}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C49DAFC4-B758-405B-BCBC-6198EF888067}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C49DAFC4-B758-405B-BCBC-6198EF888067}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C49DAFC4-B758-405B-BCBC-6198EF888067}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {998ACA6B-D7D4-4762-BF93-98B597D70359}
+	EndGlobalSection
+EndGlobal
